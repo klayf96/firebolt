@@ -1,2 +1,2 @@
-# firebolt
-mini lab - firebolt project
+# firebolt - Personal project for MiniLab
+A repository of modeling assets
